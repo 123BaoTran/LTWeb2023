@@ -1,0 +1,31 @@
+body{
+    border:5px double;
+    
+  }
+  .header{
+    border: 5px groove;
+    margin: 2px;
+    width: 100%;
+    height: 50px;
+    background: #AAAAAA;
+    font-size: 23px;
+  }
+  #nav{
+  border: 5px groove;
+    
+  }
+  #nav .left{
+   border: 5px groove;
+    max-width: 20%;
+    margin: auto;
+    text-align: left;
+    float: left;
+    padding: 15px;
+    position: relative;
+    background: #FFFFCC;
+    
+  }
+  #nav .left ul li{
+    display: inline;
+  }
+  
